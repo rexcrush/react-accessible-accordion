@@ -7,7 +7,7 @@
 
 ## Demo
 
-[Try a demo now](https://springload.github.io/react-accessible-accordion/).
+[Try a demo now](https://repl.it/badge/github/springload/react-accessible-accordion)](https://repl.it/github/springload/react-accessible-accordion).
 
 ## Usage
 
